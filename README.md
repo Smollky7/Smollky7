@@ -28,5 +28,7 @@
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white=https://www.tiktok.com/@smollkyzinho)](https://www.tiktok.com/@smollkyzinho)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/smollkyzinho)](
 https://www.twitch.tv/smollkyzinho)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760??style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q)](
+https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q)
 
  
