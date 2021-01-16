@@ -24,6 +24,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFFF?style=flat-square&labelColor=00BFFF&logo=twitter&logoColor=white&link=https://twitter.com/Smollkyzinho)](https://twitter.com/Smollkyzinho) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/smollkyzinho?igshid=186tot3a0373c)](https://instagram.com/smollkyzinho?igshid=186tot3a0373c)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=smollkyzinho.web@gmail.com)](smollkyzinho.web@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smollkyzinho.web@gmail.com)](mailto:smollkyzinho.web@gmail.com)
 
  
