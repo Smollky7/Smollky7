@@ -24,11 +24,11 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFFF?style=flat-square&labelColor=00BFFF&logo=twitter&logoColor=white&link=https://twitter.com/Smollkyzinho)](https://twitter.com/Smollkyzinho) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/smollkyzinho?igshid=186tot3a0373c)](https://instagram.com/smollkyzinho?igshid=186tot3a0373c)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smollkyzinho.web@gmail.com)](mailto:smollkyzinho.web@gmail.com)
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white=https://www.tiktok.com/@smollkyzinho)](https://www.tiktok.com/@smollkyzinho)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/smollkyzinho)](
 https://www.twitch.tv/smollkyzinho)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760??style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q)](
 https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smollkyzinho.web@gmail.com)](mailto:smollkyzinho.web@gmail.com)
 
  
