@@ -1,4 +1,4 @@
-# Hello people! 👨‍💻
+# Hello people! 👋
 
 <img align="right" src="https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-rootaccess-4417096_116625.png" width="350"/>
 🇧🇷 My name is Jardel but, in cyber space I’m known as Smollky. 🇧🇷
