@@ -35,5 +35,3 @@ https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4
 https://www.reddit.com/u/Smollkyzinho?utm_medium=android_app&utm_source=share)
 [![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&labelColor=107C10&logo=xbox&logoColor=white&link=https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho?utm_medium=android_app&utm_source=share)](
 https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho)
-
-
