@@ -5,22 +5,22 @@
 #### 🇧🇷 My name is Jardel but, in cyber space I’m known as Smollky. 🇧🇷
 
 
-• I am currently a developer of Discord bot's, but I am studying web development.
+- I am currently a developer of Discord bot's, but I am studying web development.
 
-• Video and photo editor.
+- Video and photo editor.
 
-• I find it easy to learn and develop as a programmer.
+- I find it easy to learn and develop as a programmer.
 
-• I really like what I do, I love to learn more and have new experiences.
+- I really like what I do, I love to learn more and have new experiences.
 
-🔭 I am currently CEO of a Bot's Discord store.
-🌱 I’m currently learning Java, HTML, CSS and TS.
-🚀 I’m looking to collaborate on Javascript and NodeJs, but I’ll help you if you need to.
-🧳 I currently live in MG.
-💫 I'm 17 years old.
-🎬 Video and photo editor.
-⚡ I want to learn more and more.
-📫 How to reach me by email, twitter or Instagram.
+ 🔭 I am currently CEO of a Bot's Discord store.
+ 🌱 I’m currently learning Java, HTML, CSS and TS.
+ 🚀 I’m looking to collaborate on Javascript and NodeJs, but I’ll help you if you need to.
+ 🧳 I currently live in MG.
+ 💫 I'm 17 years old.
+ 🎬 Video and photo editor.
+ ⚡ I want to learn more and more.
+ 📫 How to reach me by email, twitter or Instagram.
 
 ### 🔥 Vamo que vamo, nem o céu é o limite!
 
