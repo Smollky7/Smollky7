@@ -35,5 +35,5 @@ https://www.reddit.com/u/Smollkyzinho?utm_medium=android_app&utm_source=share)
 [![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&labelColor=107C10&logo=xbox&logoColor=white&link=https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho?utm_medium=android_app&utm_source=share)](
 https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho)
 
-![](https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-rootaccess-4417096_116625.png)
+![p](https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-rootaccess-4417096_116625.png)
 
