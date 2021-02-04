@@ -1,4 +1,4 @@
-# Hello people! 👋 👨‍💻
+# Hello people! 👨‍💻
 
 🇧🇷 My name is Jardel but, in cyber space I’m known as Smollky. 🇧🇷
 
