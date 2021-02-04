@@ -5,6 +5,7 @@
 #### 🇧🇷 My name is Jardel but, in cyber space I’m known as Smollky. 🇧🇷
 
 
+
 - I am currently a developer of Discord bot's, but I am studying web development.
 
 - Video and photo editor.
@@ -12,6 +13,7 @@
 - I find it easy to learn and develop as a programmer.
 
 - I really like what I do, I love to learn more and have new experiences.
+
 
  🔭 I am currently CEO of a Bot's Discord store.
  🌱 I’m currently learning Java, HTML, CSS and TS.
