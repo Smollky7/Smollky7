@@ -15,6 +15,7 @@
 - I really like what I do, I love to learn more and have new experiences.
 
 
+ 🔥 Owner and creator of Serviço Supremo.
  🔭 I am currently CEO of a Bot's Discord store.
  🌱 I’m currently learning Java, HTML, CSS and TS.
  🚀 I’m looking to collaborate on Javascript and NodeJs, but I’ll help you if you need to.
