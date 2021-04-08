@@ -24,6 +24,7 @@
   📫 How to reach me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
 </p>
 
+<p aling='center'>
 <details>
   <summary>🏷️ My Contacts: </summary>
 
