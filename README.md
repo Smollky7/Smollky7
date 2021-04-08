@@ -4,15 +4,14 @@
 
 #### 🇧🇷 My name is Jardel but, in cyber space I’m known as Smollky. 🇧🇷
 
-- I am currently a developer of Discord bot's, but I am studying web development.
+*I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.*
 
-- Video and photo editor.
+- I am currently a developer of Discord bot's, but I am studying web development and other applications.
 
-- I find it easy to learn and develop as a programmer.
+- I feel super eager to learn new things and develop as a person and a programmer.
 
 - I really like what I do, I love to learn more and have new experiences.
 
-*I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.*
 
   - 🧳 I currently live in MG.
   - 💫 I am 17 years old.
