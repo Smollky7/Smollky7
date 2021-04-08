@@ -14,7 +14,8 @@
 
    - 🧳 I currently live in MG.
    - 💫 I am 17 years old.
-   - 🎬 Video and photo editor. Osto I like to learn and develop more each day.
+   - 🎬 Video and photo editor.
+   - 🏆 I like to learn and develop more each day.
    - 🤝 Work well as a team.
    - 🚀 I'm already familiar with Javascript and Nodejs.
    - 🎯 I can develop and learn quickly and very efficiently.
