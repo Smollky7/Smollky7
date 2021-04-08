@@ -20,7 +20,7 @@
   - 🚀 I'm already familiar with Javascript and Nodejs.
   - 🎯 I can develop and learn quickly and very efficiently.
   - 🌱 I am currently studying Java, HTML, CSS and TS.
-  - 🔥 Owner and creator of the Supreme Service.
+  - 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf).
   - 🔭 I’m one of the CEO of a Bot’s Discord store.
   - 📫 How to contact me by Discord, Email, Twitter or Instagram.
 
