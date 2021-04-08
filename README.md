@@ -12,6 +12,7 @@
 
 - I really like what I do, I love to learn more and have new experiences.
 
+*I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.*
 
   - 🧳 I currently live in MG.
   - 💫 I am 17 years old.
@@ -23,7 +24,6 @@
   - 🔥 Owner and creator of the Supreme Service.
   - 🔭 I’m one of the CEO of a Bot’s Discord store.
   - 📫 How to contact me by Discord, Email, Twitter or Instagram.
-I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.
 
 #### 🌎 Nor the sky is the limit!
 - Contacts:
