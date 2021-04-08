@@ -4,8 +4,6 @@
 
 #### 🇧🇷 My name is Jardel but, in cyber space I’m known as Smollky. 🇧🇷
 
-
-
 - I am currently a developer of Discord bot's, but I am studying web development.
 
 - Video and photo editor.
@@ -24,10 +22,10 @@
   - 🌱 I am currently studying Java, HTML, CSS and TS.
   - 🔥 Owner and creator of the Supreme Service.
   - 🔭 I’m one of the CEO of a Bot’s Discord store.
-  - 📫 How to contact me by email, Twitter or Instagram.
+  - 📫 How to contact me by Discord, Email, Twitter or Instagram.
+I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.
 
-### 🔥 Vamo que vamo, nem o céu é o limite!
-
+#### 🌎 Nor the sky is the limit!
 - Contacts:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFFF?style=flat-square&labelColor=00BFFF&logo=twitter&logoColor=white&link=https://twitter.com/Smollkyzinho)](https://twitter.com/Smollkyzinho) 
