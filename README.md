@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hello people! 👋 My name is Jardel but they know me by Smollky.👨‍💻
+ Hello people! 👋 My name is Jardel but they know me by Smollky 👨‍💻
 </h1>
 
 *I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.*
@@ -11,15 +11,15 @@
 - I really like what I do, I love to learn more and have new experiences.
 
 
-  - 🧳 I currently live in MG.
-  - 💫 I am 17 years old.
-  - 🎬 Video and photo editor. Osto I like to learn and develop more each day.
-  - 🤝 Work well as a team.
-  - 🚀 I'm already familiar with Javascript and Nodejs.
-  - 🎯 I can develop and learn quickly and very efficiently.
-  - 🌱 I am currently studying Java, HTML, CSS and TS.
-  - 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf), a store on Discord for now.
-  - 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/jqskQJ4SQ9), a store on Discord.
+ - > 🧳 I currently live in MG.
+ - > 💫 I am 17 years old.
+ - > 🎬 Video and photo editor. Osto I like to learn and develop more each day.
+ - > 🤝 Work well as a team.
+ - > 🚀 I'm already familiar with Javascript and Nodejs.
+ - > 🎯 I can develop and learn quickly and very efficiently.
+ - > 🌱 I am currently studying Java, HTML, CSS and TS.
+ - > 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf), a store on Discord for now.
+ - > 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/jqskQJ4SQ9), a store on Discord.
 <p align='center'>
   📫 How to reach me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
 </p>
