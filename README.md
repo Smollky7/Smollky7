@@ -1,8 +1,6 @@
-# Hello people! 👋
-
-<img align="right" src="https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-rootaccess-4417096_116625.png" width="350"/>
-
-#### 🇧🇷 My name is Jardel but, in cyber space I’m known as Smollky. 🇧🇷
+<h1 align='center'>
+ Hello people! 👋 My name is Jardel but they know me by Smollky.👨‍💻
+</h1>
 
 *I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.*
 
@@ -22,10 +20,14 @@
   - 🌱 I am currently studying Java, HTML, CSS and TS.
   - 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf), a store on Discord for now.
   - 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/jqskQJ4SQ9), a store on Discord.
-  - 📫 How to contact me by Discord, Email, Twitter or Instagram.
-
-#### 🌎 Nor the sky is the limit!
-- Contacts:
+<p align='center'>
+  📫 How to reach me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
+</p>
+<p align='center>
+  🌎 Nor the sky is the limit!
+</p>
+<details>
+  <summary>📃 My Contacts: </summary>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFFF?style=flat-square&labelColor=00BFFF&logo=twitter&logoColor=white&link=https://twitter.com/Smollkyzinho)](https://twitter.com/Smollkyzinho) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/smollkyzinho?igshid=186tot3a0373c)](https://instagram.com/smollkyzinho?igshid=186tot3a0373c)
@@ -39,3 +41,10 @@ https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4
 https://www.reddit.com/u/Smollkyzinho?utm_medium=android_app&utm_source=share)
 [![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&labelColor=107C10&logo=xbox&logoColor=white&link=https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho?utm_medium=android_app&utm_source=share)](
 https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho)
+
+</details>
+
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Smollkyzinho&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
