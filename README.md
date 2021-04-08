@@ -21,7 +21,7 @@
   - 🎯 I can develop and learn quickly and very efficiently.
   - 🌱 I am currently studying Java, HTML, CSS and TS.
   - 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf).
-  - 🔭 I’m one of the CEO of a Bot’s Discord store.
+  - 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/QqMepdQ), a store on discord.
   - 📫 How to contact me by Discord, Email, Twitter or Instagram.
 
 #### 🌎 Nor the sky is the limit!
