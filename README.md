@@ -23,9 +23,7 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
 </p>
-<p align='center>
-  🌎 Nor the sky is the limit!
-</p>
+
 <details>
   <summary>📃 My Contacts: </summary>
 
@@ -48,3 +46,6 @@ https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho)
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Smollkyzinho&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+<h2 align='center'>
+  🌎 Nor the sky is the limit!
+</h2>
