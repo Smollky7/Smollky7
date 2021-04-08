@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hello people! 👋 My name is Jardel but they know me by Smollky 👨‍💻
+ Olá welcome to my profile! 👋 My name is Jardel but they know me by Smollky
 </h1>
 
 ---
@@ -23,7 +23,7 @@
    - 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/jqskQJ4SQ9), a store on Discord.
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
+  👨‍💻 How to reach me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
 </p>
 
 <p align='center'>
