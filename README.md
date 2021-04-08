@@ -1,7 +1,7 @@
 <h1 align='center'>
- Hello welcome to my profile! 👋
+ Hello welcome to my profile! 👋 My name is Jardel but they know me by Smollky 👨‍💻
 </h1>
-#### My name is Jardel but they know me by Smollky 👨‍💻
+
 ---
 
 > *I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.*
