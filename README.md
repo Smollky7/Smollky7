@@ -4,6 +4,8 @@
 
 > *I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.*
 
+---
+
 - I am currently a developer of Discord bot's, but I am studying web development and other applications.
 
 - I feel super eager to learn new things and develop as a person and a programmer.
