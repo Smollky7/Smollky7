@@ -39,23 +39,15 @@
 
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white=https://www.tiktok.com/@smollkyzinho)](https://www.tiktok.com/@smollkyzinho)
 
-[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/smollkyzinho)](
+[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/smollkyzinho)](https://www.twitch.tv/smollkyzinho)
 
-https://www.twitch.tv/smollkyzinho)
-
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760??style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q)](
-
-https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760??style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q)](https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smollkyzinho.web@gmail.com)](mailto:smollkyzinho.web@gmail.com)
 
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&labelColor=FF4500&logo=Reddit&logoColor=white&link=https://www.reddit.com/u/Smollkyzinho?utm_medium=android_app&utm_source=share)](
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&labelColor=FF4500&logo=Reddit&logoColor=white&link=https://www.reddit.com/u/Smollkyzinho?utm_medium=android_app&utm_source=share)](https://www.reddit.com/u/Smollkyzinho?utm_medium=android_app&utm_source=share)
 
-https://www.reddit.com/u/Smollkyzinho?utm_medium=android_app&utm_source=share)
-
-[![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&labelColor=107C10&logo=xbox&logoColor=white&link=https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho?utm_medium=android_app&utm_source=share)](
-
-https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho)
+[![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&labelColor=107C10&logo=xbox&logoColor=white&link=https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho?utm_medium=android_app&utm_source=share)](https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho)
 
 </details>
 
