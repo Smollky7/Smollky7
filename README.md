@@ -27,6 +27,8 @@
 
 ### 🔥 Vamo que vamo, nem o céu é o limite!
 
+- Contacts:
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFFF?style=flat-square&labelColor=00BFFF&logo=twitter&logoColor=white&link=https://twitter.com/Smollkyzinho)](https://twitter.com/Smollkyzinho) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF00FF?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/smollkyzinho?igshid=186tot3a0373c)](https://instagram.com/smollkyzinho?igshid=186tot3a0373c)
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white=https://www.tiktok.com/@smollkyzinho)](https://www.tiktok.com/@smollkyzinho)
