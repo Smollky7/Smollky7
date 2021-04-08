@@ -20,8 +20,8 @@
   - 🚀 I'm already familiar with Javascript and Nodejs.
   - 🎯 I can develop and learn quickly and very efficiently.
   - 🌱 I am currently studying Java, HTML, CSS and TS.
-  - 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf).
-  - 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/QqMepdQ), a store on discord.
+  - 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf), a store on Discord for now.
+  - 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/jqskQJ4SQ9), a store on Discord.
   - 📫 How to contact me by Discord, Email, Twitter or Instagram.
 
 #### 🌎 Nor the sky is the limit!
@@ -39,5 +39,3 @@ https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4
 https://www.reddit.com/u/Smollkyzinho?utm_medium=android_app&utm_source=share)
 [![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&labelColor=107C10&logo=xbox&logoColor=white&link=https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho?utm_medium=android_app&utm_source=share)](
 https://account.xbox.com/pt-br/profile?gamertag=Smollkyzinho)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discord.gg/nucdu6WPxf?utm_medium=android_app&utm_source=share)](
-https://discord.gg/nucdu6WPxf)
