@@ -1,5 +1,5 @@
 <h1 align='center'>
- Hello welcome to my profile! 👋 I'm Jardel Sousa but they know me by Smollky or Smollkyzinho 👨‍💻
+ Hello welcome to my profile! 👋 <br>I'm Jardel Sousa but they know me by Smollky or Smollkyzinho <br>👨‍💻
 </h1>
 
 ---
