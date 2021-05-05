@@ -16,16 +16,16 @@ I'm <ins>Jardel Sousa</ins> but on the internet they know me by <ins>Smollky</in
 </ul>
 
 
-   - 🧳 I currently live in MG.
-   - 💫 I am 17 years old.
-   - 🎬 Video and photo editor.
-   - 🏆 I like to learn and develop more each day.
-   - 🤝 Work well as a team.
-   - 🚀 I'm already familiar with Javascript and Nodejs.
-   - 🎯 I can develop and learn quickly and very efficiently.
-   - 🌱 I am currently studying Java, HTML, CSS and TS.
-   - 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf), a store on Discord for now.
-   - 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/jqskQJ4SQ9), a store on Discord.
+    - 🧳 I currently live in MG.
+    - 💫 I am 17 years old.
+    - 🎬 Video and photo editor.
+    - 🏆 I like to learn and develop more each day.
+    - 🤝 Work well as a team.
+    - 🚀 I'm already familiar with Javascript and Nodejs.
+    - 🎯 I can develop and learn quickly and very efficiently.
+    - 🌱 I am currently studying Java, HTML, CSS and TS.
+    - 🔥 Owner and creator of the [Serviços Supremo](https://discord.gg/nucdu6WPxf), a store on Discord for now.
+    - 🔭 I'm one of the CEOs of [Eagles Developer's](https://discord.gg/jqskQJ4SQ9), a store on Discord.
 
 <p align='center'>
   📬 How to reach me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
