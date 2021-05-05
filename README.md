@@ -1,16 +1,20 @@
 <h1 align='center'>
- Hello welcome to my profile! 👋 <br>I'm Jardel Sousa but they know me by Smollky or Smollkyzinho <br>👨‍💻
+Hello welcome to my profile! 👋
 </h1>
-
----
+<h2 align='center'>
+I'm <ins>Jardel Sousa</ins> but on the internet they know me by <ins>Smollky</ins><br>👨‍💻
+</h2>
 
 > *I would love to get into projects and be able to participate in something big and cool, I really like the idea of programming, I am really very passionate and it is very rewarding to work or study about it, and I know that programming can and is transforming the world more and more.*
 
-- I am currently a developer of Discord bot's, but I am studying web development and other applications.
+<ul type='cicle'>
+<li> I am currently a developer of Discord bot's, but I am studying web development and other applications.
 
-- I feel super eager to learn new things and develop as a person and a programmer.
+<li> I feel super eager to learn new things and develop as a person and a programmer.
 
-- I really like what I do, I love to learn more and have new experiences.
+<li> I really like what I do, I love to learn more and have new experiences.
+</ul>
+
 
    - 🧳 I currently live in MG.
    - 💫 I am 17 years old.
@@ -46,7 +50,8 @@
 
 </details>
 
+<hr>
 
-<h2 align='center'>
+<h3 align='center'>
   🌎 Nor the sky is the limit!
-</h2>
+</h3>
