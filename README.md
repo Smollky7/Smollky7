@@ -1,5 +1,5 @@
 <h1 align='center'>
-Hello welcome to my profile! 👋
+Hello welcome to my profile! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 <h2 align='center'>
 I'm <ins>Jardel Sousa</ins> but on the internet they know me by <ins>Smollky</ins><br>👨‍💻
