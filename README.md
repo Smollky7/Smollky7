@@ -46,7 +46,21 @@ I'm <ins>Jardel Sousa</ins> but on the internet they know me by <ins>Smollky</in
 [![TikTok Badge](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white=https://www.tiktok.com/@smollkyzinho)](https://www.tiktok.com/@smollkyzinho)
 
 </details>
+<details>
 
+  <summary>💡 Acquired knowledge: </summary>
+  
+  - [x] Marketing digital;
+  - [x] Javascript;
+  - [ ] HTMLe as CSS;
+  - [ ] Linux;
+  - [ ] Python;
+  - [ ] PHP;
+  - [ ] Java;
+  - [ ] WordPress;
+  - [ ] Design;
+  
+</details>
 <hr>
 
 <h3 align='center'>
