@@ -59,7 +59,7 @@ I'm <ins>Jardel Sousa</ins> but on the internet they know me by <ins>Smollky</in
   - [ ] Java;
   - [ ] WordPress;
   - [ ] Design;
-  
+  - to be continued...
 </details>
 <hr>
 
