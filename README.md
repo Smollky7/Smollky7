@@ -1,5 +1,6 @@
 <h1 align='center'>
-Olá eu sou o Smollky <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+Seja bem-vindo(a) ao meu perfil! <br>
+ Eu sou o Smollky <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
  <div>
