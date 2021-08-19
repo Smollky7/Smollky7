@@ -25,8 +25,8 @@ Olá eu sou o Smollky <img src="https://raw.githubusercontent.com/iampavangandhi
 
  <div>
   <a href="https://github.com/Smollky7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smollky7&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smollky7&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Smollky7&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smollky7&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
   
  ##
