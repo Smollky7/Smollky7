@@ -35,3 +35,6 @@
   🌎 Nor the sky is the limit!
 </h3>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Smollky7"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
