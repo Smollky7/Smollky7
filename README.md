@@ -6,7 +6,7 @@
  <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Smollky7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smollky7&layout=compact&langs_count=7&theme=midnight-purple,contribs&bg_color=00000000"/>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=smollky7&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Smollky7&theme=midnight-purple&hide_border=true&background=FFFFFF00">
 </div>
 
 <div style="display: inline_block" align="center">
@@ -19,10 +19,9 @@
 <br>
 
 <div align="center">
-   <img src="https://badges.pufler.dev/visits/Smollky7/Smollky7"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/visits/Smollky7/Smollky7"/>
  <img src="https://badges.pufler.dev/repos/Smollky7"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/commits/monthly/Smollky7" />
 </div>
 
 
