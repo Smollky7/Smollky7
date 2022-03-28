@@ -1,19 +1,23 @@
 <h1 align='center'>
  
-< Seja bem-vindo(a) ao meu perfil! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> />
+< Welcome to my profile! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> />
 </h1>
 
  <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Smollky7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true,contribs&bg_color=00000000"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smollky7&layout=compact&langs_count=7&theme=midnight-purple,contribs&bg_color=00000000"/>
-   <img src ="https://github-readme-streak-stats.herokuapp.com?user=smollky7&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=smollky7&theme=midnight-purple&hide_border=true&background=FFFFFF00">
 </div>
+
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-Js" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
 </div>
+
 <br>
+
 <div align="center">
    <img src="https://badges.pufler.dev/visits/Smollky7/Smollky7"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
@@ -24,7 +28,7 @@
 
  <br>
 <div> <p align='center'>
-  📬 Como me encontrar: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
+  📬 How to find me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
 </div>
  
   <div align="center">
