@@ -29,7 +29,9 @@
  
 </div>
 
-   ![Snake animation](https://github.com/Smollky7/Smollky7/blob/output/github-contribution-grid-snake.svg)
+  <p align="center">
+  <img src="https://github.com/Smollky7/Smollky7/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
    
   <h3 align='center'>
   🌎 Nor the sky is the limit!
