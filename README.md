@@ -34,7 +34,7 @@
  <a target="_blank" href="https://instagram.com/smollky7" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href="https://twitter.com/Smollky7" rel="external"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a target="_blank" href="https://open.spotify.com/user/3yd0h5mhvxz26lnaronbydwgv?si=rdzptMbYTuORYMA89iyT4Q" rel="external"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a target="_blank" href="https://discord.gg/nucdu6WPxf" rel="external"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a target="_blank" href="https://discord.com/invite/nnruttzJB6https://discord.com/invite/nnruttzJB6" rel="external"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  </div>
  
 </div>
