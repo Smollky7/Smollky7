@@ -20,7 +20,7 @@
 
  <br>
 <div> <p align='center'>
-  📬 How to find me: <a href='mailto:smollkyzinho.web@gmail.com'>smollkyzinho.web@gmail.com</a>
+  📬 How to find me: <a href='mailto:jardelsousa.dev@gmail.com'>jardelsousa.dev@gmail.com</a>
 </div>
  
   <div align="center">
